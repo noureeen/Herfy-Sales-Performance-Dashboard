@@ -1,4 +1,4 @@
-# 📊 Herfy Sales Performance Dashboard
+# Herfy Sales Performance Dashboard
 
 This repository contains a comprehensive **Sales Performance Analysis for Herfy**, focusing on evaluating **net sales, returns, route efficiency, and monthly trends** using Power BI.
 
@@ -6,7 +6,7 @@ The dashboard and report are designed to support **data-driven decision-making**
 
 ---
 
-## 🧾 Project Overview
+## Project Overview
 
 The objective of this project is to analyze Herfy’s sales data and provide insights into:
 
@@ -20,7 +20,7 @@ An interactive Power BI dashboard is used to visualize KPIs and trends clearly f
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Power BI** – Data modeling, visualization, and dashboard creation  
 - **Microsoft Excel** – Data cleaning and preparation  
@@ -28,13 +28,6 @@ An interactive Power BI dashboard is used to visualize KPIs and trends clearly f
 
 ---
 
-## 📁 Repository Structure
-
-```
-├── HerfySalesDashboard.pbix
-├── HERFY SALES ANALYSIS REPORT.pptx
-└── README.md
-```
 
 ### File Descriptions
 
@@ -49,7 +42,7 @@ An interactive Power BI dashboard is used to visualize KPIs and trends clearly f
 
 ---
 
-## 📌 Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
 - **Total Net Sales:** 80.71M SAR  
 - **Total Returns:** 8.96M SAR  
@@ -58,7 +51,7 @@ An interactive Power BI dashboard is used to visualize KPIs and trends clearly f
 
 ---
 
-## 📍 Business Insights
+## Business Insights
 
 ### City Performance
 - **Top Performing Cities:** Riyadh Cash, Jail, Riyadh KA  
@@ -71,13 +64,13 @@ An interactive Power BI dashboard is used to visualize KPIs and trends clearly f
 - High-return routes may indicate delivery, handling, or quality issues.
 
 ### Route Performance Color Coding
-- 🟩 **Green:** High sales with very low return percentage  
-- 🟨 **Yellow:** Moderate performance, requires monitoring  
-- 🟥 **Red:** High return percentage, needs immediate action  
+- **Green:** High sales with very low return percentage  
+- **Yellow:** Moderate performance, requires monitoring  
+- **Red:** High return percentage, needs immediate action  
 
 ---
 
-## 📈 Monthly Trends Analysis
+## Monthly Trends Analysis
 
 ### Net Sales Trend
 - Sales fluctuations observed throughout the year  
@@ -92,7 +85,7 @@ An interactive Power BI dashboard is used to visualize KPIs and trends clearly f
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 Herfy demonstrates **strong overall sales performance**, driven by high-demand cities and efficient routes.  
 While most routes perform consistently well, a few high-return routes require focused operational improvements.
@@ -101,15 +94,9 @@ The declining return trend reflects **positive progress in quality control and l
 
 ---
 
-## 👤 Author
+## Author
 
 **Hidha Nourin**  
 Data Analyst  
-📅 December 6, 2025
+December 6, 2025
 
----
-
-## 🤝 Contributions & Feedback
-
-Suggestions, improvements, and feedback are welcome.  
-Feel free to fork the repository or open an issue for discussion.
