@@ -97,6 +97,5 @@ The declining return trend reflects **positive progress in quality control and l
 ## Author
 
 **Hidha Nourin**  
-Data Analyst  
-December 6, 2025
+Data Analyst 
 
